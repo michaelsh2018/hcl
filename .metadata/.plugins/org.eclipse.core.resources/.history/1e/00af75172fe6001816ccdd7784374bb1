@@ -1,0 +1,6 @@
+package com.hcl.hackathon.fullstack.beans;
+
+public class Product {
+
+	private int id;
+}

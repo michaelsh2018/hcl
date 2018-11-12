@@ -1,0 +1,20 @@
+package com.hcl.hackathon.fullstack.beans;
+
+
+@Entity
+@Table(name ="product")
+public class Product {
+	@Id
+	private int id;
+	@Column
+	private String name;
+	@Column
+	private String image;
+	@Column
+	private int rating;
+	@Column
+	private String category;
+	
+	
+		
+}

@@ -1,0 +1,8 @@
+package com.hcl.hackathon.fullstack.http;
+
+public class Response {
+	private boolean success;
+	private int code;
+	private String message;
+		
+}
